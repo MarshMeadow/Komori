@@ -20,5 +20,7 @@ Join the conversation!
 Using your Anilist account you can share your thoughts with other people and see what they like.
 
 ----
-
 Images: https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS
+
+----
+Back-Up: https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA
