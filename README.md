@@ -1,5 +1,6 @@
 # komori
 ![banner](https://user-images.githubusercontent.com/88599122/229642672-4fc67ffc-7675-43b2-82ac-f3811d342946.jpg)
+
 [Join Discord](https://discord.com/invite/TNmYrAwWdd)
 
 An android app that uses Anilist. By: AN
