@@ -1,5 +1,5 @@
 # Komori
-![banner](https://user-images.githubusercontent.com/88599122/229642672-4fc67ffc-7675-43b2-82ac-f3811d342946.jpg)
+![banner_waifu2x_art_noise3_scale](https://user-images.githubusercontent.com/88599122/229846243-0ecd34e4-29f0-490d-b759-cb0b40ec2781.png)
 
 An android app that uses Anilist. By: AN
 
