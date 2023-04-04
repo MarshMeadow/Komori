@@ -3,6 +3,8 @@
 
 [Join Discord](https://discord.com/invite/TNmYrAwWdd) - [Komori Web](https://komori.neocities.org/)
 
+# Latest
+
 An android app that uses Anilist. By: AN
 
 App description:
