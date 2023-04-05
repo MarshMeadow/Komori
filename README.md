@@ -31,7 +31,7 @@ App description:
 - And much more!
 
 ----
-Images: https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS
+[Images](https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS)
 
 ----
 [Back-Up](https://komori.neocities.org/back-up)
