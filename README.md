@@ -36,4 +36,4 @@ App description:
 ----
 [Back-Up](https://komori.neocities.org/back-up)
 ----
-Virus Scans: [Virus Total](https://www.virustotal.com/gui/file/607c430e04aa73abc54f3e9d35fd43015d25e708ffbb47dec3ff458de9ced485) - [Kaspersky](https://opentip.kaspersky.com/A8A940245D51DE6C7EA506344B790DB25DAD3C9CCDA3B8D7C99021C771C3573C/results?tab=upload)
+Virus Scans: [Virus Total](https://www.virustotal.com/gui/file/607c430e04aa73abc54f3e9d35fd43015d25e708ffbb47dec3ff458de9ced485) - [Kaspersky](https://opentip.kaspersky.com/607C430E04AA73ABC54F3E9D35FD43015D25E708FFBB47DEC3FF458DE9CED485/results?tab=upload)
