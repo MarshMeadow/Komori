@@ -34,4 +34,4 @@ App description:
 Images: https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS
 
 ----
-Back-Up: https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA
+[Back-Up](https://komori.neocities.org/back-up)
