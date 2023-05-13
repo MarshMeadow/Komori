@@ -34,7 +34,7 @@ App description:
 [Back-Up](https://komori.neocities.org/back-up)
 
 ----
-Virus Scans: [Virus Total](https://www.virustotal.com/gui/file/607c430e04aa73abc54f3e9d35fd43015d25e708ffbb47dec3ff458de9ced485) - [Kaspersky](https://opentip.kaspersky.com/607C430E04AA73ABC54F3E9D35FD43015D25E708FFBB47DEC3FF458DE9CED485/results?tab=upload)
+Mal/Virus Scans: [Virus Total](https://www.virustotal.com/gui/file/607c430e04aa73abc54f3e9d35fd43015d25e708ffbb47dec3ff458de9ced485) - [Kaspersky](https://opentip.kaspersky.com/607C430E04AA73ABC54F3E9D35FD43015D25E708FFBB47DEC3FF458DE9CED485/results?tab=upload)
 
 ----
 Proof to Post: (Ignore AN's Questioning, They are fine with it all):
