@@ -39,6 +39,7 @@ Old Version: (0.11) Mal/Virus Scans: [Virus Total](https://www.virustotal.com/gu
 ----
 Proof to Post: (They are fine with it all):
 
-![image](https://user-images.githubusercontent.com/88599122/230454622-940fbbc1-9e66-4c74-92b4-16fcc3e746ea.png)
+![image](https://github.com/MarshMeadow/Komori/assets/88599122/53dba3f9-9536-4fef-adf5-ca4c03b26aa0)
+![image](https://github.com/MarshMeadow/Komori/assets/88599122/676a0f26-7dd5-4871-8a2a-2eaa4fe24a9a)
 
 Once the Dev makes a Official GitHub this will become an archive/back-up for the app...
