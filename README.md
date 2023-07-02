@@ -43,4 +43,7 @@ Proof to Post: (They are fine with it all):
 ![image](https://github.com/MarshMeadow/Komori/assets/88599122/676a0f26-7dd5-4871-8a2a-2eaa4fe24a9a)
 
 This is made to make it easier for you github users out there and to report bugs..
-Once the Dev puts this on Google Play or makes a Official GitHub this will become a archive/back-up for the app..
+
+Once the Dev puts this on Google Play or makes a Official GitHub this might become a 
+archive/back-up for the app, we will probably shut down the github so that the the app
+can just be on the play store..
