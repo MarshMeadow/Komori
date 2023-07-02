@@ -9,6 +9,8 @@ An android app that uses Anilist. By: AN
 
 ----
 
+NEWS! NEW VERSION COMING SOON!
+
 App description:
 
 - Android application Komori: track & discover anime developed by Komori App.
