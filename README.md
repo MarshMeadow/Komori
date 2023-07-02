@@ -42,4 +42,5 @@ Proof to Post: (They are fine with it all):
 ![image](https://github.com/MarshMeadow/Komori/assets/88599122/53dba3f9-9536-4fef-adf5-ca4c03b26aa0)
 ![image](https://github.com/MarshMeadow/Komori/assets/88599122/676a0f26-7dd5-4871-8a2a-2eaa4fe24a9a)
 
-Once the Dev makes a Official GitHub this will become an archive/back-up for the app...
+This is made to make it easier for you github users out there and to report bugs..
+Once the Dev puts this on Google Play or makes a Official GitHub this will become a archive/back-up for the app..
