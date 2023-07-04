@@ -1,5 +1,5 @@
 # Komori
-![banner-modified](https://github.com/MarshMeadow/Komori/assets/88599122/77477c5a-f0a3-4604-a5a4-e22c3b291e0e)
+![smallbanner-modified](https://github.com/MarshMeadow/Komori/assets/88599122/43341e77-29b6-40c2-8e46-67c7a4f1c6f5)
 
 An android app that uses Anilist. By: AN
 
