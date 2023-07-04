@@ -9,7 +9,7 @@ Latest News: [HERE](https://github.com/MarshMeadow/Komori/discussions/2) - Feel 
 
 Latest (NEWS: NEW VERSION COMING SOON!)
 ----
-[Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
+[Latest Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
 ----
 
@@ -46,8 +46,8 @@ Proof to Post: (They are fine with it all):
 ![image](https://github.com/MarshMeadow/Komori/assets/88599122/53dba3f9-9536-4fef-adf5-ca4c03b26aa0)
 ![image](https://github.com/MarshMeadow/Komori/assets/88599122/676a0f26-7dd5-4871-8a2a-2eaa4fe24a9a)
 
-This is made to make it easier for you github users out there and to report bugs..
+This is made to make it easier for you github users out there and to report bugs, and chatting..
 
 Once the Dev puts this on Google Play or makes a Official GitHub this might become a 
 archive/back-up for the app, we will probably shut down the github so that the the app
-can just be on the play store..
+can just be on the Play Store..
