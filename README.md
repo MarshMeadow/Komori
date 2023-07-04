@@ -7,7 +7,8 @@ An Android app that uses Anilist. By: AN
 
 Latest News: [HERE](https://github.com/MarshMeadow/Komori/discussions/2) - Feel Free To Read Issues Too!
 
-# Latest (NEWS: NEW VERSION COMING SOON!)
+Latest (NEWS: NEW VERSION COMING SOON!)
+----
 [Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
 ----
