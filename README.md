@@ -1,9 +1,12 @@
 # Komori
 ![small-banner-modified](https://github.com/MarshMeadow/Komori/assets/88599122/48985b6c-a18a-483b-899c-58246d58e017)
 
-An android app that uses Anilist. By: AN
+An Android app that uses Anilist. By: AN
 
 [Join Discord](https://komori.neocities.org/discord) - [Komori Web](https://komori.neocities.org/) 
+
+# News: [HERE](https://github.com/MarshMeadow/Komori/discussions/2)
+
 # Latest (NEWS: NEW VERSION COMING SOON!)
 [Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
