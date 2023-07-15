@@ -9,9 +9,9 @@ Latest News: [HERE](https://github.com/MarshMeadow/Komori/discussions/categories
 
 Latest (NEWS: NEW VERSION COMING SOON!)
 ----
-[Latest Web Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
+1. [Latest Web Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 -Or-
-Going Down soon ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
+2. Going Down soon ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
 ----
 
