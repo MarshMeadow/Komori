@@ -3,13 +3,13 @@
 
 An Android app that uses Anilist. By: AN
 
-[Join Discord](https://komori.neocities.org/discord) - [Komori Web](https://komori.neocities.org/) 
+[Join Discord](https://komori.neocities.org/discord) - [Non-Offical Komori Web](https://komori.neocities.org/) 
 
 Latest News: [HERE](https://github.com/MarshMeadow/Komori/discussions/categories/announcements) - Feel Free To Read Issues Too!
 
 Latest (NEWS: NEW VERSION COMING SOON!)
 ----
-1. [Latest Web Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
+1. Still Updated: [Latest Web Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 2. Going Down soon ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
 ----
@@ -36,7 +36,7 @@ App description:
 [Images](https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS)
 
 ----
-[Back-Up](https://komori.neocities.org/back-up)
+Latest: [Back-Up](https://komori.neocities.org/back-up)
 
 ----
 Old Version: (0.11) Mal/Virus Scans: [Virus Total](https://www.virustotal.com/gui/file/607c430e04aa73abc54f3e9d35fd43015d25e708ffbb47dec3ff458de9ced485) - [Kaspersky](https://opentip.kaspersky.com/607C430E04AA73ABC54F3E9D35FD43015D25E708FFBB47DEC3FF458DE9CED485/results?tab=upload)
@@ -50,5 +50,5 @@ Proof to Post: (They are fine with it all):
 This is made to make it easier for you github users out there and to report bugs, and chatting..
 
 Once the Dev puts this on Google Play or makes a Official GitHub this might become a 
-archive/back-up for the app, we will probably shut down the github so that the the app
+archive/back-up for the app, we will probably shut down the GitHub, or unlist the APK, so that the the app
 can just be on the Play Store..
