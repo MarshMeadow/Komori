@@ -5,7 +5,7 @@ An Android app that uses Anilist. By: AN
 
 [Join Discord](https://komori.neocities.org/discord) - [Komori Web](https://komori.neocities.org/) 
 
-Latest News: [HERE](https://github.com/MarshMeadow/Komori/discussions/2) - Feel Free To Read Issues Too!
+Latest News: [HERE](https://github.com/MarshMeadow/Komori/discussions/categories/announcements) - Feel Free To Read Issues Too!
 
 Latest (NEWS: NEW VERSION COMING SOON!)
 ----
