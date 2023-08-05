@@ -9,8 +9,9 @@ Latest News: [Here](https://github.com/MarshMeadow/Komori/releases/tag/v0.12) Or
 
 Latest V0.12 Is HERE!
 ----
-1. Latest: Still Updated: [Latest Web Download](https://komori.neocities.org/apk)
-2. No Longer Here ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
+1. Please Download On Google Play: [Here](https://play.google.com/store/apps/details?id=app.komori)
+2. Latest: Still Updated: [Latest Web Download](https://komori.neocities.org/apk)
+3. No Longer Here ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
 ----
 
