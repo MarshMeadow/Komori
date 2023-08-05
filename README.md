@@ -5,12 +5,12 @@ An Android app that uses Anilist. By: AN
 
 [Join Discord](https://komori.neocities.org/discord) - [Non-Offical Komori Web](https://komori.neocities.org/) 
 
-Latest News: Check bottom of page! - Also, [HERE](https://github.com/MarshMeadow/Komori/discussions/categories/announcements) - Feel Free To Read Issues Too!
+Latest News: [Here](https://github.com/MarshMeadow/Komori/releases/tag/v0.12) Or Check bottom of page! - Also, [HERE](https://github.com/MarshMeadow/Komori/discussions/categories/announcements) - Feel Free To Read Issues Too!
 
-Latest (NEWS: NEW VERSION COMING SOON!)
+Latest V0.12 Is HERE!
 ----
 1. Latest: Still Updated: [Latest Web Download](https://komori.neocities.org/apk)
-2. Going Down soon ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
+2. No Longer Here ): [GitHub Download](https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk)
 
 ----
 
@@ -50,4 +50,4 @@ Proof to Post: (They are fine with it all):
 This is made to make it easier for you github users out there and to report bugs, and chatting..
 
 ----
-News: Note That: We Will No Longer Support The Komori GitHub.. Once It gets back on the play store, with the new update coming, It will be removed from GitHub, but the GitHub will stay up. Thanks For The Support! The Back-Up Might Stay Up!! Also!! The download link: komori.neocities.org/apk will stay up, and work for the latest releases or what I can keep up with, thanks for being there and thanks for staring the GitHub!
+News: Note That: We Will No Longer Support The Komori GitHub.. The GitHub will stay up, Thanks For The Support! The Back-Up Might Stay Up!! Also!! The download Link: komori.neocities.org/apk will stay up, and work for the latest releases or what I can keep up with, it may not stay up to date.. thanks for being there and thanks for staring the GitHub!
